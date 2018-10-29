@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/200px-Chess_bdt45.svg.png</file>
+        <file>res/200px-Chess_blt45.svg.png</file>
+        <file>res/200px-Chess_kdt45.svg.png</file>
+        <file>res/200px-Chess_klt45.svg.png</file>
+        <file>res/200px-Chess_ndt45.svg.png</file>
+        <file>res/200px-Chess_nlt45.svg.png</file>
+        <file>res/200px-Chess_pdt45.svg.png</file>
+        <file>res/200px-Chess_plt45.svg.png</file>
+        <file>res/200px-Chess_qdt45.svg.png</file>
+        <file>res/200px-Chess_qlt45.svg.png</file>
+        <file>res/200px-Chess_rdt45.svg.png</file>
+        <file>res/200px-Chess_rlt45.svg.png</file>
+    </qresource>
+</RCC>
